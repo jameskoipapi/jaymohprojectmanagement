@@ -19,7 +19,6 @@ hamMenu.addEventListener('click', () => {
     hamMenuIcon.style = 'display: block';
   }
 });
-
 window.addEventListener('scroll', () => {
   let windowPosition = window.scrollY > 50;
   header.classList.toggle('active', windowPosition);
