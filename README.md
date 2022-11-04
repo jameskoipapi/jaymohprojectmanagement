@@ -65,9 +65,6 @@ https://github.com/jameskoipapi/jaymohprojectmanagement/
 
 
 
-
-
-
 ## MIT License
 
 Copyright (c) 2022 Kapgeradok
