@@ -13,7 +13,6 @@ https://colorlib.com/preview/theme/travelix/index.html#
 ![image](https://user-images.githubusercontent.com/111881094/199909389-d7b6048f-a345-41a3-bc07-36dc3a63e36b.png)
 
 
-
 ![image](https://user-images.githubusercontent.com/111881094/199913150-1f4dc5c0-3416-4ba5-8e8c-d151854b9c5a.png)
 
 https://colorlib.com/preview/theme/travelix/index.html#
