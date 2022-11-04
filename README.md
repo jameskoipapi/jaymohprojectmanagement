@@ -14,16 +14,12 @@ https://colorlib.com/preview/theme/travelix/index.html#
 
 
 
-![image](https://user-images.githubusercontent.com/111881094/199906673-f2291d39-1ad6-4dc0-bfbe-06ccc679d87a.png)
-
+![image](https://user-images.githubusercontent.com/111881094/199913150-1f4dc5c0-3416-4ba5-8e8c-d151854b9c5a.png)
 
 https://colorlib.com/preview/theme/travelix/index.html#
 
 # Discover the overview
-
-
-
-# Project description
+![image](https://user-images.githubusercontent.com/111881094/199913547-429fcfd5-f580-4da7-aeed-562e265adf71.png)
 
 
 # MY CONTACT
@@ -31,8 +27,6 @@ https://colorlib.com/preview/theme/travelix/index.html#
 
 # Email Address
 koipapijames@gmail.com
-## PROJECT LOCATION:
-
 
 
 ## The description of the project
