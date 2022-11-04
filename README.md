@@ -37,7 +37,22 @@ koipapijames@gmail.com
 
 ## The description of the project
 
-The objectives of this policy document are to promote sustainable exploitation of forest resources for based on environmental protection and preservation and for the benefits of current and future generations of Kenyans. They also include respecting socio-cultural values and ensuring access to justice, gender equity, and inclusiveness. Finally, they aim to sustainably conserve water catchments areas by facilitating huma migration.
+Start your search for a low-cost flight to Kajiado on Expedia by selecting a bargain from this page or by entering your travel dates, departure airport, and whether you want a roundtrip or one-way ticket into the search box. To select the ideal flight for you, you can filter by flexibility, the number of stops, the airline, and the departure/arrival times.
+
+To find out how much an airline ticket will cost on nearby days, use the "Flexible Dates" calendar at the top of the page. If your travel plans allow for it, you can choose the least expensive days to fly and find cheap flights to Kajiado as a result.
+
+
+
+One-way fares to Kajiado start at $456, while roundtrip costs range from $310 to $777.
+
+
+
+Be mindful that selecting a non-stop flight
+Daily highs hover around 78°F, rarely dropping below 73°F or rising over 82°F. On October 10, the maximum daily average high temperature is 79°F.
+
+Daily lows rise by 2°F, from 57°F to 60°F, and are rarely below 53°F or over 62°F.
+
+As a point of comparison, temperatures in Kajiado normally range from 61°F to 82°F on March 4, the hottest day of the year, and from 54°F to 73°F on July 14, the coldest day of the year.
 MY PROJECT IS LIVE AT:
 https://github.com/jameskoipapi/jaymohprojectmanagement/
 
