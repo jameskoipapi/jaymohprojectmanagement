@@ -1,12 +1,18 @@
 # World-Travel-Booking-Site
 
+![image](https://user-images.githubusercontent.com/111881094/199909037-1d13f217-5af4-4755-8b33-5862ef7b1ece.png)
 
  ## AUTHOR:         DATE
  James Koipapi: 03/11/2022
  # PERSONAL DESCRIPTION
 Am James Koipapi. Am currently learning to be a full stack developer at Moringa school in partnership with Flatiron.
 
-Responsive Hotel Booking Website | HTML, Css and JS
+# Responsive Hotel Booking Website | HTML, Css and JS
+
+https://colorlib.com/preview/theme/travelix/index.html#
+![image](https://user-images.githubusercontent.com/111881094/199909389-d7b6048f-a345-41a3-bc07-36dc3a63e36b.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/111881094/199906673-f2291d39-1ad6-4dc0-bfbe-06ccc679d87a.png)
 
@@ -43,8 +49,12 @@ https://github.com/jameskoipapi/jaymohprojectmanagement/
 5.CSS
 6.JavaScript
 
-# image screenshots:
-# small screen overview:
+# Contact page
+![image](https://user-images.githubusercontent.com/111881094/199909905-4261bae5-35da-46d6-962f-ebc869aaa576.png)
+
+# The blog on travel
+![image](https://user-images.githubusercontent.com/111881094/199910248-ae722c6e-968c-4521-ad15-d9c5b9bd724b.png)
+
 
 
 
